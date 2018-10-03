@@ -2,3 +2,5 @@
 *.pyo
 *.swp
 *.swo
+.env
+db.sqlite3
