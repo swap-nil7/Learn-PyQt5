@@ -1,3 +1,8 @@
+"""
+Roses are red, Life is a fare
+Give me the shirt, I don't really care
+"""
+
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 
